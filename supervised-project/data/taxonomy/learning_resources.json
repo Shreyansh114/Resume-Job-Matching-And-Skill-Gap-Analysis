@@ -1,0 +1,68 @@
+{
+  "Python": [
+    {"title": "Python tutorial", "provider": "Python Software Foundation", "url": "https://docs.python.org/3/tutorial/"},
+    {"title": "Python for Everybody", "provider": "freeCodeCamp", "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/"}
+  ],
+  "SQL": [
+    {"title": "SQL learning path", "provider": "Microsoft Learn", "url": "https://learn.microsoft.com/training/browse/?products=sql-server"},
+    {"title": "SQLBolt interactive lessons", "provider": "SQLBolt", "url": "https://sqlbolt.com/"}
+  ],
+  "Machine Learning": [
+    {"title": "Machine Learning Specialization", "provider": "DeepLearning.AI", "url": "https://www.coursera.org/specializations/machine-learning-introduction"},
+    {"title": "scikit-learn tutorials", "provider": "scikit-learn", "url": "https://scikit-learn.org/stable/tutorial/index.html"}
+  ],
+  "Natural Language Processing": [
+    {"title": "NLP course", "provider": "Hugging Face", "url": "https://huggingface.co/learn/nlp-course"},
+    {"title": "spaCy course", "provider": "Explosion", "url": "https://course.spacy.io/"}
+  ],
+  "Deep Learning": [
+    {"title": "Deep Learning Specialization", "provider": "DeepLearning.AI", "url": "https://www.coursera.org/specializations/deep-learning"},
+    {"title": "PyTorch tutorials", "provider": "PyTorch", "url": "https://pytorch.org/tutorials/"}
+  ],
+  "Data Analysis": [
+    {"title": "Data analysis with Python", "provider": "freeCodeCamp", "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/"},
+    {"title": "pandas getting started", "provider": "pandas", "url": "https://pandas.pydata.org/docs/getting_started/index.html"}
+  ],
+  "Data Visualization": [
+    {"title": "Power BI learning paths", "provider": "Microsoft Learn", "url": "https://learn.microsoft.com/training/powerplatform/power-bi/"},
+    {"title": "Tableau training", "provider": "Tableau", "url": "https://www.tableau.com/learn/training"}
+  ],
+  "Statistics": [
+    {"title": "OpenIntro Statistics", "provider": "OpenIntro", "url": "https://www.openintro.org/book/os/"},
+    {"title": "Statistics and probability", "provider": "Khan Academy", "url": "https://www.khanacademy.org/math/statistics-probability"}
+  ],
+  "Cloud Computing": [
+    {"title": "Azure fundamentals learning path", "provider": "Microsoft Learn", "url": "https://learn.microsoft.com/training/paths/azure-fundamentals-describe-cloud-concepts/"},
+    {"title": "AWS Skill Builder", "provider": "Amazon Web Services", "url": "https://skillbuilder.aws/"}
+  ],
+  "Docker": [
+    {"title": "Docker getting started", "provider": "Docker", "url": "https://docs.docker.com/get-started/"},
+    {"title": "Docker curriculum", "provider": "Docker", "url": "https://www.docker.com/101-tutorial/"}
+  ],
+  "Kubernetes": [
+    {"title": "Kubernetes basics", "provider": "Kubernetes", "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/"},
+    {"title": "Introduction to Kubernetes", "provider": "Linux Foundation", "url": "https://training.linuxfoundation.org/training/introduction-to-kubernetes/"}
+  ],
+  "Git": [
+    {"title": "Git handbook", "provider": "GitHub", "url": "https://docs.github.com/get-started/using-git/about-git"},
+    {"title": "Pro Git book", "provider": "Git", "url": "https://git-scm.com/book/en/v2"}
+  ],
+  "Java": [
+    {"title": "Dev.java learning", "provider": "Oracle", "url": "https://dev.java/learn/"},
+    {"title": "Spring guides", "provider": "Spring", "url": "https://spring.io/guides"}
+  ],
+  "JavaScript": [
+    {"title": "JavaScript guide", "provider": "MDN", "url": "https://developer.mozilla.org/docs/Web/JavaScript/Guide"},
+    {"title": "TypeScript handbook", "provider": "Microsoft", "url": "https://www.typescriptlang.org/docs/handbook/intro.html"}
+  ],
+  "Excel": [
+    {"title": "Excel training", "provider": "Microsoft Learn", "url": "https://support.microsoft.com/excel"}
+  ],
+  "Project Management": [
+    {"title": "Agile project management", "provider": "Atlassian", "url": "https://www.atlassian.com/agile/project-management"}
+  ],
+  "MLOps": [
+    {"title": "MLOps course", "provider": "DeepLearning.AI", "url": "https://www.deeplearning.ai/short-courses/"},
+    {"title": "MLflow documentation", "provider": "MLflow", "url": "https://mlflow.org/docs/latest/index.html"}
+  ]
+}

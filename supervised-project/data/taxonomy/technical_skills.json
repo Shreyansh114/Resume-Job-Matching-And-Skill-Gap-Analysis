@@ -1,0 +1,20 @@
+{
+  "Python": ["python3"],
+  "SQL": ["structured query language", "t-sql", "postgresql", "mysql"],
+  "Machine Learning": ["machine learning", "ml", "scikit-learn", "sklearn"],
+  "Natural Language Processing": ["natural language processing", "nlp", "spacy", "nltk"],
+  "Deep Learning": ["deep learning", "pytorch", "tensorflow", "keras"],
+  "Data Analysis": ["data analysis", "data analytics", "pandas", "numpy"],
+  "Data Visualization": ["data visualization", "tableau", "power bi", "matplotlib"],
+  "Statistics": ["statistical analysis", "statistics", "hypothesis testing"],
+  "Cloud Computing": ["cloud computing", "azure", "aws", "google cloud"],
+  "Docker": ["docker", "containerization"],
+  "Kubernetes": ["kubernetes", "k8s"],
+  "Git": ["git", "github", "gitlab", "version control"],
+  "Java": ["java", "spring boot"],
+  "JavaScript": ["javascript", "typescript", "node.js", "react"],
+  "Excel": ["microsoft excel", "excel", "spreadsheets"],
+  "Communication": ["written communication", "verbal communication", "communication skills"],
+  "Project Management": ["project management", "agile", "scrum", "kanban"],
+  "MLOps": ["mlops", "model deployment", "model monitoring", "mlflow"]
+}
